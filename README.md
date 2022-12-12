@@ -1,1 +1,2 @@
 # KodluyoruzRepo
+##Ödev 1
